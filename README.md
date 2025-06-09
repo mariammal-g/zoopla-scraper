@@ -60,6 +60,6 @@ zoopla-importer/
 
 ## Import Zoopla Data into MySQL
 Option A: Using Artisan Command
-1. Create a custom Artisan command (php artisan make:command ImportZooplaData).
+1. Create a custom Artisan command (php artisan make:command ImportZooplaJson).
 2. Run the command:
-      php artisan import:zoopla-data
+      php artisan import:zoopla
